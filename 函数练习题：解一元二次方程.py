@@ -20,4 +20,4 @@ def quadratic(a, b, c):
     return x
 
 
-print('quadratic(1, 2, 1) =', quadratic(2, 3, 1))
+print('quadratic(2, 3, 1) =', quadratic(2, 3, 1))
