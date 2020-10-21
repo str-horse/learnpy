@@ -14,3 +14,4 @@ def fibonacci(n):  # 递归法求第n个斐波那契数列
 
 m = int(input('请输入一个正整数：'))
 print(fibonacci(m))
+
