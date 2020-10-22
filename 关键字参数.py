@@ -8,7 +8,7 @@ def person(name, age, **kw):
     print('name:', name, 'age:', age, 'other:', kw)
 
 
-person('zhangsan',19,city = 'beijing',job = 'Engineer')
+person('lisi',19,city = 'beijing',job = 'Engineer')
 
 
 def product(*args):
