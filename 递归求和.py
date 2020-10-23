@@ -24,5 +24,5 @@ def move(n, a, b, c):  # 汉诺塔游戏
     return
 
 
-m = int(input('请输入一个正整数：'))
-move(m, 'A', 'B', 'C')
+# m = int(input('请输入一个正整数：'))
+move(3, 'A', 'B', 'C')
