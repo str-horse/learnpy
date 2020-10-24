@@ -1,11 +1,11 @@
 def trim(x):
-    if x != '':
-        while x[:1] == ' ':
-            x = x[1:]
-        while x[-1:] == ' ':
-            x = x[:-1]
-    else:
-        x = ''
+    # if x != '':
+    while x[:1] == ' ':
+        x = x[1:]
+    while x[-1:] == ' ':
+        x = x[:-1]
+    # else:
+    #     x = ''
     return x
 
 # 测试:
