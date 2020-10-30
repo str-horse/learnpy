@@ -25,4 +25,4 @@ def move(n, a, b, c):  # 汉诺塔游戏
 
 
 # m = int(input('请输入一个正整数：'))
-move(4, 'A', 'B', 'C')
+move(5, 'A', 'B', 'C')
