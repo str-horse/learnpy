@@ -14,3 +14,4 @@ print(b)
 w = 2
 
 
+print()
